@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Microsoft\ILMerge\ilmerge" /target:winexe /out:outa.exe BitbucketHandler.exe RestSharp.dll Newtonsoft.Json.Net35.dll ComponentFactory.Krypton.Toolkit.dll AsyncCtpLibrary.dll
+pause

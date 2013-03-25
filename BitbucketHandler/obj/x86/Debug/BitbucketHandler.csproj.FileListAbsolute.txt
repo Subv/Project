@@ -1,0 +1,17 @@
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\BitbucketHandler.exe
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\BitbucketHandler.pdb
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\BitbucketHandler.Form1.resources
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\BitbucketHandler.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\BitbucketHandler.exe
+c:\users\sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\BitbucketHandler.pdb
+C:\Users\Sebastian\Documents\Visual Studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\BitbucketHandler.IssueDetails.resources
+C:\Users\Sebastian\Documents\Visual Studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\AsyncCtpLibrary.xml
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\BitbucketHandler.exe.config
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\RestSharp.pdb
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\RestSharp.xml
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\BitbucketHandler\obj\x86\Debug\BitbucketHandler.IssueComments.resources
+C:\Users\Sebastian\Documents\Visual Studio 2010\Projects\BitbucketHandler\BitbucketHandler\bin\Debug\RestSharp.dll

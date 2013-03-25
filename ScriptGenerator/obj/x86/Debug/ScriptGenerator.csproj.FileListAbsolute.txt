@@ -1,0 +1,8 @@
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\obj\x86\Debug\ScriptGenerator.Properties.Resources.resources
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\bin\Debug\ScriptGenerator.exe
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\bin\Debug\ScriptGenerator.pdb
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\obj\x86\Debug\ScriptGenerator.exe
+C:\Users\Sebastian\documents\visual studio 2010\Projects\BitbucketHandler\ScriptGenerator\obj\x86\Debug\ScriptGenerator.pdb
